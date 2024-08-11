@@ -49,6 +49,7 @@
 - 200 HP Max
 
 ### Fighters / UFO flight
+- LBA Light
 - 25 HP Max
 
 ## Weapons
