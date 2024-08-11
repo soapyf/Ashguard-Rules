@@ -1,5 +1,6 @@
 
 # Quick Rules
+- We might ask you to stop using something not covered below until it can be reviewed
 - Explosives 5 meter kill, 10 meter wound unless highly directional
 - No weapons that kill through walls
 - No Agent List weapons
