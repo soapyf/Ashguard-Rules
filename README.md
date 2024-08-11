@@ -1,6 +1,6 @@
 
 # Quick Rules
-- Explosives 5 meter kill, 10 meter wound
+- Explosives 5 meter kill, 10 meter wound unless highly directional
 - No weapons that kill through walls
 - No Agent List weapons
 - No Sensor shotguns
