@@ -68,4 +68,5 @@
 ### Auto-Turrets
 - 1 Turret per person.
 - Must be constructed and cannot be instantly functional upon deployment.
+- Maximum field of view/fire of 180 degrees
 - Explosive ammo is only allowed on turrets with lock-on times.
