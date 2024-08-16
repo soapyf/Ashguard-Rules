@@ -4,7 +4,7 @@
 - Explosives 5 meter kill, 10 meter wound unless highly directional
 - No weapons that kill through walls
 - No Agent List weapons
-- No Sensor shotguns
+- No Sensor guns
 - Do not shoot into red spawn zones unless returning fire
 - All vehicles and armor systems need to be LBA compatible
 - No loud or obnoxious sounds
