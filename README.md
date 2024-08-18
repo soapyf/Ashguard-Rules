@@ -2,7 +2,7 @@
 # Quick Rules
 - We might ask you to stop using something not covered below until it can be reviewed
 - Explosives 5 meter kill, 10 meter wound unless highly directional
-- No weapons that kill through walls
+- No weapons that are designed to kill through obstacles which would typically stop them
 - No Agent List weapons
 - No Sensor guns
 - Do not shoot into red spawn zones unless returning fire
