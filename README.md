@@ -8,6 +8,8 @@
 - Do not shoot into red spawn zones unless returning fire
 - All vehicles and armor systems need to be LBA compatible
 - No loud or obnoxious sounds
+- Avatars need to be at least 1.5m tall
+- Prejump must be enabled
 
 
 
@@ -54,12 +56,14 @@
 - 25 HP Max
 
 ## Weapons
-- Fully automatic raycast or agent-list weapons are not allowed.
+- Fully automatic raycast weapons are not allowed.
 - Shotguns should fire prim bullets or use raycast.
 - Bullets should not go through walls, barricades or any shield implement designed to stop them with the intention of killing the user on the other side.
 
 ## Equipment
 - Riot shields are allowed, but should not exceed 50HP and must be directional.
+- Deployable mines must meet a minimum size of at least 0.25 x 0.25 x 0.04
+- C2 Body armor is allowed at defending OiC discretion (ask before you use it)
 
 ## Deployables
 - Max HP of 100 at deployment, can be repaired/constructed to higher values.
