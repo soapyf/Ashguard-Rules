@@ -5,7 +5,7 @@
 - No weapons that are designed to kill through obstacles which would typically stop them
 - No Agent List weapons
 - No Sensor guns
-- Do not shoot into red spawn zones unless returning fire
+- Do not enter red spawn zones and do not shoot into them unless returning fire
 - All vehicles and armor systems need to be LBA compatible
 - No loud or obnoxious sounds
 - Avatars need to be at least 1.5m tall
