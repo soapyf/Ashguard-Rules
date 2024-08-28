@@ -18,7 +18,7 @@
 
 # Extended Rules
 ## Explosives & AOE
-- Infantry-based explosives should not exceed a 5m kill radius and a 10m wound radius unless there is a wind-up time that is choreographed both visually and audibly for several seconds
+- Explosives should not exceed a 5m kill radius and a 10m wound radius unless there is a wind-up time that is choreographed both visually and audibly for several seconds
 - Deployable explosives should not have HP that exceeds a value of 1 and should be able to be destroyed by standard projectiles
 - Deployable mines should be at minimum 0.25 x 0.25 x 0.04 meters in size
 - Explosives should not kill through walls or other solid objects
