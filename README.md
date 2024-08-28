@@ -1,7 +1,7 @@
 
 # Quick Rules
-- We might ask you to stop using something not covered below until it can be reviewed
-- Exceptions to rules can be made if all parties involved agree
+### We might ask you to stop using something not covered below until it can be reviewed
+### Exceptions to rules can be made if all parties involved agree
   
 - Explosives Should adhear to a 5 meter kill, 10 meter wound radius unless highly directional
 - No weapons that are designed to kill through obstacles which would typically stop them
