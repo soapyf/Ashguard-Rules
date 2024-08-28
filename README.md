@@ -20,7 +20,8 @@
 ## Explosives & AOE
 - Infantry-based explosives should not exceed a 5m kill radius and a 10m wound radius unless there is a wind-up time that is choreographed both visually and audibly for several seconds
 - Deployable explosives should not have HP that exceeds a value of 1 and should be able to be destroyed by standard projectiles
-- Explosives should not go through walls
+- Deployable mines should at minimum 0.25 x 0.25 x 0.04 meters in size
+- Explosives should not kill through walls or other solid objects
 - AoE/Explosives damage must not be group safe
 
 ## Movement Enhancers
@@ -64,7 +65,6 @@
 
 ## Equipment
 - Riot shields are allowed, but should not exceed 50HP and must be directional
-- Deployable mines must meet a minimum size of at least 0.25 x 0.25 x 0.04 meters
 
 ### Combat 2.0
 - Body armor that protects a full 360° can not exceed a 25% damage reduction at this time
