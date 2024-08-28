@@ -26,6 +26,7 @@
 ### Jetpacks
 - Can not recharge in air.
 - Minimum 3 second recharge time.
+- Should only move the avatar a reasonable distance (the full width of a region is not a reasonable distance)
 
 ### Sprints
 - Max of 5 second duration.
