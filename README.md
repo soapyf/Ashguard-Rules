@@ -4,8 +4,7 @@
   
 - Explosives Should adhear to a 5 meter kill, 10 meter wound radius unless highly directional
 - No weapons that are designed to kill through obstacles which would typically stop them
-- No Agent List weapons
-- No Sensor guns
+- No Sensor or Agent List guns
 - Do not enter red spawn zones and do not shoot into them unless returning fire
 - All vehicles and armor systems need to be LBA compatible
 - No loud or obnoxious sounds
