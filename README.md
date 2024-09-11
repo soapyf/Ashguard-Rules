@@ -3,7 +3,9 @@
 ### We might ask you to stop using something not covered below until it can be reviewed. Exceptions to rules can be made if all parties involved agree
   
 - Explosives Should adhear to a 5 meter kill, 10 meter wound radius unless highly directional
+- Explosive projectiles and missiles that use a non-physical movement desinged to defeat interceptors are no allowed
 - No weapons that are designed to kill through obstacles which would typically stop them
+- No Infinite ammo weapons (this includes deployables)
 - No Sensor or Agent List guns
 - Do not enter red spawn zones and do not shoot into them unless returning fire
 - All vehicles and armor systems need to be LBA compatible
