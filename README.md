@@ -14,7 +14,7 @@
 - Prejump must be enabled
 
 # Banned Equipment
-- All SAC weapons. A gun doesnt need 328 textures using 1.28gb of vRam
+- All SAC weapons. A gun doesnt need 328 textures using 1.28gb of vRam and 17 scripts
 
 
 
