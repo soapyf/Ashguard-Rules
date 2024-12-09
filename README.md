@@ -13,7 +13,8 @@
 - Avatars need to be at least 1.5m tall
 - Prejump must be enabled
 
-
+# Banned Equipment
+- All SAC weapons. A gun doesnt need 328 textures using 1.28gb of vRam
 
 
 
