@@ -38,6 +38,7 @@
 
 ### Diverolls
 - 15m max distance
+- Cannot dash in air
 - Minimum 6 second recharge
 
 ## Vehicles
