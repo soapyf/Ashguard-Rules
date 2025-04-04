@@ -59,7 +59,7 @@
 
 ### Fighters / UFO flight
 - LBA Light
-- 25 HP Max
+- 10 HP Max
 
 ## Weapons
 - Fully automatic raycast weapons are not allowed at this time
