@@ -36,7 +36,7 @@
 - Max of 5 second duration.
 - Minimum 6 second recharge
 
-### Diverolls
+### Diverolls & Dashes
 - 15m max distance
 - Cannot dash in air
 - Minimum 6 second recharge
