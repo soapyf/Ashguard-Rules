@@ -1,11 +1,11 @@
 
 # Quick Rules
 ### We might ask you to stop using something not covered below until it can be reviewed. Exceptions to rules can be made if all parties involved agree
-  
-- Explosives Should adhear to a 5 meter kill, 10 meter wound radius unless highly directional
-- Explosive projectiles, missiles, or bombs that use non-physical movement or any other method desinged to defeat interceptors are not allowed
-- No weapons that are designed to kill through obstacles which would typically stop them
-- No Infinite ammo weapons (this includes deployables)
+
+- Explosives should adhere to a max 5 meter kill, 10 meter wound radius unless highly directional
+- Explosive projectiles, missiles, or bombs that use non-physical movement or any other method designed to defeat interceptors are not allowed
+- No weapons that are designed to kill through obstacles, which would typically stop them
+- No infinite ammo weapons (this includes deployables)
 - No Sensor or Agent List guns
 - Do not enter red spawn zones and do not shoot into them unless returning fire
 - All vehicles and armor systems need to be LBA compatible
@@ -29,12 +29,12 @@
 
 ## Movement Enhancers
 ### Jetpacks
-- Can not recharge in air.
-- Minimum 3 second recharge time.
+- Can not recharge in air
+- Minimum 3 second recharge time
 - Should only move the avatar a reasonable distance (the full width of a region is not a reasonable distance)
 
 ### Sprints
-- Max of 5 second duration.
+- Max of 5 second duration
 - Minimum 6 second recharge
 
 ### Diverolls & Dashes
@@ -43,10 +43,10 @@
 - Minimum 6 second recharge
 
 ## Vehicles
-### All Armored units. (Vehicles,Avatars)
+### All Armored units (Vehicles, Avatars)
 - Should utilise LBA compatible armor
 - Can hover/jetpack no more than 15 meters above the ground
-- Self repair / healing functions on armored units must have a cooldown of at least 1 minute
+- Self repair/healing functions on armored units must have a cooldown of at least 1 minute
 
 ### Tanks / Heavy Vehicles
 - 400 HP Max
@@ -79,7 +79,7 @@
 - HP can not exceed 400
 
 ### Auto-Turrets
-- 1 Turret per person.
+- 1 Turret per person
 - Must be constructed and cannot be instantly functional upon deployment
 - Maximum field of view/fire of 180 degrees
 - Explosive ammo is only allowed on turrets with lock-on times
