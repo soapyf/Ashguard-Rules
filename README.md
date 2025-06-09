@@ -10,7 +10,7 @@
 - Do not enter red spawn zones and do not shoot into them unless returning fire
 - All vehicles and armor systems need to be LBA compatible
 - No loud or obnoxious sounds
-- Avatars need to be at least 1.5m tall
+- Avatars need to be at least 1.5m tall to participate in combat
 - Prejump must be enabled
 
 # Banned Equipment
