@@ -40,7 +40,7 @@
 ### Diverolls & Dashes
 - 15m max distance
 - Cannot dash in air
-- Minimum 6 second recharge
+- Minimum 4 second recharge
 
 ## Vehicles
 ### All Armored units. (Vehicles,Avatars)
