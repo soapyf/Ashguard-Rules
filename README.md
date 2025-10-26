@@ -64,6 +64,7 @@
 
 ## Weapons
 - Fully automatic raycast weapons are not allowed at this time
+- Burst Fire raycast is allowed if it has no 'haze'
 - Shotguns should fire prim bullets or use raycast
 - Bullets should not go through walls, barricades or any shield implement designed to stop them with the intention of killing the user on the other side
 
