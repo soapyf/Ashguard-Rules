@@ -72,7 +72,7 @@
 ## Equipment
 - Riot shields are allowed, but should not exceed 50HP and must be directional
 - Equipement that blind and or limit an avatars movement need to have a recharge time longer than the duration of their effect.
-- 
+  
 ### Combat 2.0
 - Body armor that protects a full 360° can not exceed a 25% damage reduction at this time
 - Healing abilities should have either limited uses per life or extended recharge times
