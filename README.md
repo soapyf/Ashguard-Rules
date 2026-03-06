@@ -15,6 +15,7 @@
 
 # Banned Equipment
 - All SAC weapons.
+- Chaos Decretum Exodus Rifle
 
 
 
