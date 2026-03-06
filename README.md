@@ -26,6 +26,7 @@
 - Explosives that exceed a 2 meter kill radius must be interceptable
 - Explosives should not kill through walls or other solid objects
 - AoE/Explosives damage must not be group safe
+- Recharge times on thrown grenades/explosives of all types must be longer then the duration of grenades effect.
 
 ## Movement Enhancers
 ### Jetpacks
