@@ -43,7 +43,7 @@ Within the Territorial Jurisdiction of Ashguard**
 
 **Section 2.01. Spawn Zone Sanctity.** No combatant shall, under any circumstances, ingress into, trespass upon, or otherwise physically enter any zone demarcated in red and designated as a spawn area. Furthermore, no combatant shall discharge any weapon, munition, projectile, or area-of-effect ordnance into, toward, or in the general direction of such spawn zones; *provided, however*, that defensive return fire directed toward a hostile combatant who has initiated an attack from within or proximate to a spawn zone shall constitute a permissible exception to this prohibition.
 
-**Section 2.02. Armor System Compatibility.** All vehicles, mechanized units, powered armor, and any system incorporating damage mitigation or hit-point allocation functionality shall be required, as a condition precedent to deployment, to maintain full and verified compatibility with the LBA (Linden Bullet Armor) protocol. Non-compliant systems are strictly prohibited.
+**Section 2.02. Armor System Compatibility.** All vehicles, mechanized units, powered armor, and any system incorporating damage mitigation or hit-point allocation functionality shall be required, as a condition precedent to deployment, to maintain full and verified compatibility with the LBA (Listen Based Armor) protocol. Non-compliant systems are strictly prohibited.
 
 **Section 2.03. Minimum Avatar Dimensional Requirements.** No avatar shall be permitted to engage in combat operations unless said avatar meets or exceeds a minimum vertical dimension of one and one-half meters (1.5 m) as measured from the base of the avatar to its highest anatomical point. Avatars failing to satisfy this dimensional threshold are hereby barred from participation in any and all combat activities.
 
@@ -143,7 +143,7 @@ Within the Territorial Jurisdiction of Ashguard**
 
 **Section 7.01. General Vehicular Requirements.** All armored units, vehicles, mechanized platforms, and analogous conveyances deployed within the territorial boundaries of Ashguard shall satisfy each and all of the following conditions as a prerequisite to lawful operation:
 
-> (a) Full and verified compatibility with the LBA (Linden Bullet Armor) protocol;
+> (a) Full and verified compatibility with the LBA (Listen Based Armor) protocol;
 >
 > (b) A maximum hover altitude or jetpack-assisted elevation not exceeding fifteen meters (15 m) above the ground surface;
 >
