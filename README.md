@@ -28,8 +28,7 @@
 - No weapons designed to kill through obstacles that would typically stop them
 - Fully automatic raycast weapons are not allowed at this time
 - Burst fire raycast is allowed if it has no 'haze'
-- Shotguns must fire prim bullets or use raycast
-- Bullets must not go through walls, barricades, or any shield implement designed to stop them
+- No Sensor or Agent-list weapons. Exceptions to this rule are Flamethrowers & Explosives. You may also use them to create lock-on functions. Additional exceptions to the rule may be considered on a case-by-case basis.
 
 ## Explosives & AOE
 
