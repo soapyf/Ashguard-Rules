@@ -28,7 +28,7 @@
 - No weapons designed to kill through obstacles that would typically stop them
 - Fully automatic raycast weapons are not allowed at this time
 - Burst fire raycast is allowed if it has no haze¹
-- No Sensor or Agent-list weapons. Exceptions to this rule are Flamethrowers & Explosives. You may also use them to create lock-on functions. Additional exceptions to the rule may be considered on a case-by-case basis.
+- No Sensor or Agent-list weapons. Exceptions to this rule are Flamethrowers, Explosives, & Melee. You may also use them to create lock-on functions. Additional exceptions to the rule may be considered on a case-by-case basis.
 
 ## Explosives & AOE
 
