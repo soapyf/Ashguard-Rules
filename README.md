@@ -24,7 +24,6 @@
 
 # Weapons
 
-- No Sensor or Agent List guns
 - No infinite ammo weapons (this includes deployables)
 - No weapons designed to kill through obstacles that would typically stop them
 - Fully automatic raycast weapons are not allowed at this time
