@@ -27,7 +27,7 @@
 - No infinite ammo weapons (this includes deployables)
 - No weapons designed to kill through obstacles that would typically stop them
 - Fully automatic raycast weapons are not allowed at this time
-- Burst fire raycast is allowed if it has no 'haze'
+- Burst fire raycast is allowed if it has no haze¹
 - No Sensor or Agent-list weapons. Exceptions to this rule are Flamethrowers & Explosives. You may also use them to create lock-on functions. Additional exceptions to the rule may be considered on a case-by-case basis.
 
 ## Explosives & AOE
@@ -102,3 +102,11 @@ All armored units must:
 | Gunships / VTOL              | 200    |           |
 | Fast Attack / Light Vehicles | 100    | LBA Light |
 | Fighters / UFO Flight        | 10     | LBA Light |
+
+
+
+
+
+
+# Footnotes & Definitions
+¹ Haze refers to a raycasting method in which perceived width is achieved by casting a cluster of rays around a central reference ray.
